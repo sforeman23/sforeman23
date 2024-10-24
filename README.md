@@ -1,5 +1,5 @@
 # Hello, I'm Spencer Foreman
-<a href="www.linkedin.com/in/spencer-foreman-9741951a6"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/spencer-foreman-9741951a6"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
