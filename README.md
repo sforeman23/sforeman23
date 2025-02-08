@@ -4,6 +4,9 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/sforeman23/Azure--SOC)
+  ## Vulnerability Management Projects
+- **[Vulnerability Management Program Implementation](https://github.com/sforeman23/vulnerabiliy-management-project/tree/main)**
+  
   
 
 <h2> 🤳 Connect with me:</h2>
