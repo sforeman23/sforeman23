@@ -6,8 +6,8 @@
   - [Creating a live SOC / Honeynet in Azure](https://github.com/sforeman23/Azure--SOC)
   ## Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/sforeman23/vulnerabiliy-management-project/tree/main)**
-  
-  
+   ## Threat Hunting Projects
+  - **[TOR Threat Hunting Scenario](https://github.com/sforeman23/threat-hunting-scenario-tor)**
 
 <h2> 🤳 Connect with me:</h2>
 
