@@ -7,7 +7,7 @@
   ## Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/sforeman23/vulnerabiliy-management-project/tree/main)**
    ## Threat Hunting Projects
-  - **[TOR Threat Hunting Scenario](https://github.com/sforeman23/threat-hunting-scenario-tor)**
+  - **[TOR Threat Hunting Scenario](https://github.com/sforeman23/threat-hunting-scenario-tor/blob/main/README.md)**
 
 <h2> 🤳 Connect with me:</h2>
 
